@@ -13,14 +13,3 @@ CREATE DATABASE IF NOT EXISTS Empresa_db CHARACTER SET utf8mb4 COLLATE utf8mb4_u
     );
 
 ?>
-
-
-
--- 3. BANCO DE DADOS MYSQL
--- Crie um banco de dados chamado empresa_db.
--- Crie uma tabela funcionarios com os campos:
--- - id — INT, chave primária e auto incremento.
--- - nome — VARCHAR(100), obrigatório.
--- - email — VARCHAR(150), obrigatório.
--- - salario — DECIMAL(10,2), obrigatório.
--- - tipo — VARCHAR(30), obrigatório.
